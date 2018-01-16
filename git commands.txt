@@ -1,5 +1,5 @@
 //after making changes, run the below to save your changes to git
-git commit -a -m "some message" && git push
+git add * && git commit -a -m "some message" && git push
 
 //to pull latest code from github, use the below command
 git pull
