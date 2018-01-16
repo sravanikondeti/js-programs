@@ -1,0 +1,3 @@
+git commit -a -m "some message" && git push
+
+git pull
