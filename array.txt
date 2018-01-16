@@ -1,0 +1,43 @@
+6. Write a JavaScript program which compute, the average marks of the following students Then, this average is used to determine the corresponding grade. 
+
+Student Name	Marks
+David	80
+Vinoth	77
+Divya	88
+Ishitha	95
+Thomas	68
+The grades are computed as follows :
+
+Range	Grade
+<60	F
+<70	D
+<80	C
+<90	B
+<100	A
+
+if marks<60 printf
+if 60<marks<70  
+var a=[{
+'name':'david',
+'marks':'80'},
+{
+'name':'vinoth',
+'marks':'77'},
+{
+'name':'divya',
+'marks':'88'},
+{
+'name':'ishitha',
+'marks':'95'},
+{
+'name':'thomas',
+'marks':'68'}
+]
+for (var i=0;i<a.length;i++);{
+console.log(a[i].marks);
+if (marks > 60 and  < 70){
+grade=F;}
+else 
+if( marks >70 and < 80){
+grade=E;}
+}

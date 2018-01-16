@@ -1,0 +1,2 @@
+var str = new String( "This is string" );
+         document.write("str.length is:" + str.length); 

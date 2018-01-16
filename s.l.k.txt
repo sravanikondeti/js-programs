@@ -1,0 +1,18 @@
+100 + 50 -3;
+147;
+
+
+
+100-50+3;
+47;
+
+
+FIRST WE HAVE TO DO
+division ; multipliation ; addition ; subraction
+
+var per={'name':'jeo'};
+var anotherper=per;
+per.name="reo";
+
+console.log(
+

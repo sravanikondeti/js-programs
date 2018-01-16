@@ -1,0 +1,35 @@
+https://jsfiddle.net/n6fr03hd/_____ 2/01/2018
+
+function test(a,b){
+console.log (a==b);
+}
+test(2,'2') is one example
+
+var test =function (a,b){
+console.log (a==b);
+}
+test(5,'5') is one example
+
+(function (a,b){
+console.log (a==b);
+})(5,'5') is one example
+
+
+(function (a,b){
+console.log (a===b);
+})(5,'5') is one more example
+
+
+var test =function (a,b){
+console.log (a===b);
+}
+test(5,'5') is another function
+
+
+function test(a,b){
+console.log (a===b);
+}
+test(5,'5') is one more function
+
+
+

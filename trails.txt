@@ -1,0 +1,46 @@
+https://jsfiddle.net/uoL0701L/
+
+
+EXAMPLE-1
+var a='sravani';
+var b='jyothi';
+var c=[2,3]
+var d={
+'percent':'75',
+'percent':'80'}
+{
+console.log(a);}
+for (var i=0;i<c.length;i++){
+console.log(c[0]);
+}
+
+OUTPUT-
+sravani
+2
+
+
+TRAIL-2
+var a='sravani';
+var b='jyothi';
+var c=[2,3]
+var d={
+'percent':'75',
+'percentage':'80'}
+{
+console.log(a);}
+for (var i=0;i<c.length;i++){
+console.log(c[0]);
+}
+{
+console.log(d.percent);}
+
+OUTPUT:
+sravani
+2
+75
+
+
+
+
+
+https://jsfiddle.net/hsLas3qj/
