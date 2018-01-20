@@ -1,0 +1,17 @@
+//i am going to get four plates
+for ( var nbrOfPlates =0;nbrOfPlates<=3;nbrOfPlates ++)  
+{
+document.write ( "sanu get me "+ nbrOfPlates +" plate ");
+document.write ( "<br>");
+// i am going to get two times to add biryani for each plate
+for ( var spoonsOfBiryani=0;spoonsOfBiryani<=1;spoonsOfBiryani ++)
+{
+document.write ( "sanu get me biryani ");
+document.write ( "<br>");
+// i am going to get three times curry after every biryani
+for ( var addingCurry=0;addingCurry<=2;addingCurry ++){
+document.write ( " sanu add curry ");
+document.write ( "<br>");
+}
+}
+}
