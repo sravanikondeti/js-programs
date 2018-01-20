@@ -1,4 +1,4 @@
-
+ cd /c/Projects/jsprograms/
 
 git add * && git commit -a -m "some message" && git push
 

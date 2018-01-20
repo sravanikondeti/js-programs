@@ -1,4 +1,6 @@
-https://jsfiddle.net/7z00v26s/
+//https://jsfiddle.net/7z00v26s/
+//given a city name then print the object name
+//given a city name then print no of matchs
 
 var a=[{'name':'pavan',
 'rollno': 24,
