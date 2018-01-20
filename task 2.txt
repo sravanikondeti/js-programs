@@ -1,0 +1,35 @@
+https://jsfiddle.net/7z00v26s/
+
+var a=[{'name':'pavan',
+'rollno': 24,
+'cityy': 'hyderabad' },
+{'name':'sravani',
+'rollno': 23,
+'cityy': 'mumbai' },
+{'name':'divya',
+'rollno': 22,
+'cityy': 'chennai' },
+{'name':'sanjay',
+'rollno': 25,
+'cityy': 'delhi' },
+{'name':'pavan',
+'rollno': 24,
+'cityy': 'hyderabad' },
+{'name':'sanjay',
+'rollno': 25,
+'cityy': 'delhi' },
+{'name':'sanjay',
+'rollno': 25,
+'cityy': 'deihi' },
+{'name':'sravani',
+'rollno': 23,
+'cityy': 'mumbai' },
+{'name':'sanjay',
+'rollno': 25,
+'cityy': 'delhi' },
+{'name':'divya',
+'rollno': 22,
+'cityy': 'chennai' }
+]
+var count = 0;
+for (var i=0;i<a.length;i++)
