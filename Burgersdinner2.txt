@@ -1,0 +1,20 @@
+//:We need to get two burgers for two people to eat.
+for ( var addBurger=1;addBurger<=2;addBurger++){
+document.write ("add burger for"+addBurger+"person");
+document.write ("<br>");
+}	
+// Each burger shoudl have a veggie patty
+for ( var veggiPatty=0;veggiPatty<=0;veggiPatty++ ){
+document.write ( "add a veggi patty to it");
+document.write ("<br>");
+//Add two slices of cheese to each burger
+for ( var slicesOfCheese=0;slicesOfCheese<=0;slicesOfCheese++ ){
+document.write ( "add cheeese to each burger");
+document.write ("<br>");
+//add three spoons of ketchup on each cheese slice
+for (var spooonOfKetchup=0;spooonOfKetchup<=2;spooonOfKetchup++){
+document.write ( " add one spoon of ketchup to every slice");
+document.write ( "<br>");
+}
+}
+}
