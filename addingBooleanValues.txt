@@ -1,0 +1,13 @@
+// printing my full name
+var myName = 'sravani';
+var surName = 'kondeti'; 
+console.log(myName +' '+ surName);
+//checking myName and surName
+console.log(false);
+console.log(true);
+console.log(myName==surName);
+console.log('cheking myName!=surName ' + (myName!= surName));
+//checking true and false > true +2
+console.log('adding false and true '+ (false+true));
+console.log('adding true and 2 : '+ (true+2));
+console.log((false + true)>true+2);
