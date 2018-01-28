@@ -1,0 +1,43 @@
+var a=2;
+var b=2;
+var c=a+b;
+//the sum of the two given integers
+console.log (c);
+var d=3*c;
+// the two values are same, then returns triple their sum.
+if (a==b){
+console.log (d);
+}
+
+
+//checking two given numbers and return true if one of the number is 50 or if their sum is 50. 
+var a=4;
+var b=15;
+if (a==50){
+console.log (true);
+}
+else
+if (a!=50){
+console.log (false);
+}
+var c=a+b;
+if (c==50){
+console.log (true);
+}
+
+
+//largest of three numbers
+var a=2;
+var b=3;
+var c=4;
+if (a>b){
+console.log (a||b);
+}
+else
+if (b>c){
+console.log (b||c);
+}
+else 
+if (c>a){
+console.log (c||a);
+}
