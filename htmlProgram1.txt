@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang = "en">
+<head>
+<title>HTML Tables</title>
+</head>
+<body>
+<table border=5>
+<tr>
+<td>
+data1
+</td>
+<td>
+data2
+</td>
+</tr>
+&lt;tr> &lt;td rowspan=2>xxx&lt;/td> &lt;td>data4&lt;/td> &lt;/tr> &lt;tr> &lt;td> gdhghfhfg &lt;/td> &lt;/tr> &lt;/table>
+</body>
+</html>

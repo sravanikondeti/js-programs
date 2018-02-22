@@ -2,3 +2,9 @@ sravani test
 
 
 https://jsfiddle.net/00guspru/   -sanus biryani's command
+
+
+1)var a=[NaN, 0, 15, false, -22, '',undefined, 47, null];
+console.log (a[2],a[4],a[7]);
+
+OUTPUT:15  -22  47

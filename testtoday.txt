@@ -1,0 +1,33 @@
+var a=[{
+'name':'david',
+'marks':'80'},
+{
+'name':'vinoth',
+'marks':'77'},
+{
+'name':'divya',
+'marks':'88'},
+{
+'name':'ishitha',
+'marks':'95'},
+{
+'name':'thomas',
+'marks':'68'}
+]
+for (var i=0;i<a.length;i++){
+document.write (a[i].marks+'n');
+if (a[i].marks<60){
+document.write(a[i].marks+'grade is 'F'' + '<br\>');
+}
+else if (a[i].marks>60 && a[i].marks<70){
+document.write (a[i].marks+'grade is'D'' + '<br\>');
+}
+else if (a[i].marks>70 && a[i].marks<80){
+document.write (a[i].marks+'grade is 'C'' + '<br\>');
+}
+else if (a[i].marks>80 && a[i].marks<90){
+document.write (a[i].marks+'grade is 'B'' + '<br\>');
+}
+else if (a[i].marks>90 && a[i].marks<100){
+document.write (a[i].marks+'grade is 'A'' + '<br\>');
+}
